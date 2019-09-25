@@ -1,4 +1,4 @@
-#Capstone Project#
+# Capstone Project
 
 This project is about high school accreditation in Indonesia.
 The government of Indonesia aims to improve education quality & mandated National Accreditation Organization to register, audit, and certify schools in Indonesia.
