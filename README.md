@@ -6,7 +6,7 @@ The grade ranges from A (being the best) to E (requires a lot of improvements).
 
 
 The accreditation process itself is a lengthy process & consumes resources.
-Being accredited as 'A' school give an economic leverage for schools because every parent wants their children to study in the best school.
+Being accredited as 'A' school give economic leverage for schools because every parent wants their children to study in the best school.
 In the accreditation process, we should expect some 'error' (be it fraud or pure mistake).
 
 The objectives of this project are:
