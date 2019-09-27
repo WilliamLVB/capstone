@@ -9,6 +9,5 @@ Being accredited as 'A' school give economic leverage for schools because every 
 In the accreditation process, we should expect some 'error' (be it fraud or pure mistake).
 
 The objectives of this project are:
-The objectives of this project are:
 * To detect if there is an anomaly in the accreditation process for a certain high school & to find the determinant features.
 * To find the determinant features of high school quality. For this purpose, we will introduce the national exam score.
